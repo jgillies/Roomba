@@ -132,6 +132,7 @@
 // You may be able to set this so you can use Roomba with NewSoftSerial
 // instead of HardwareSerial
 //#define HardwareSerial NewSoftSerial
+#define HAVE_HWSERIAL0
 
 /////////////////////////////////////////////////////////////////////
 /// \class Roomba Roomba.h <Roomba.h>
